@@ -1,2 +1,2 @@
-# nexcord
-A Next.js-inspired Discord bot framework with file-based routing, JSX commands, and a powerful CLI.
+# Nexcord
+Nexcord is a Next.js-inspired Discord bot framework designed to streamline bot development with a file-based routing system, intuitive JSX command definitions, and a powerful CLI.
