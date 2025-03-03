@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.cursor/
+
+.env*.local
+
+dist/
+node_modules/
